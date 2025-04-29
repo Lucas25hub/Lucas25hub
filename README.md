@@ -1,6 +1,7 @@
 - Olá, sou Lucas
 - 👀 Estou interessado em aprender Programação
-- 🌱 Atualmente estou aprendendo ADS
+- 🌱 Atualmente estou estudando ADS
+- 📈 Minha meta é me tornar um grande desenvolvedor, estou em desenvolvimento estudando diariamente 🙌🏻
 - 📫 lmoraes.gdc@gmail.com
 - ⚡ Curiosidade: qual o limite da programação?
 
